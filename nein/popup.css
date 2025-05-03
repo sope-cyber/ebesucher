@@ -1,0 +1,32 @@
+body {
+  font-family: sans-serif;
+  background: #111;
+  color: #eee;
+  padding: 16px;
+  width: 320px;
+}
+
+button {
+  padding: 10px;
+  background: #444;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+button:hover {
+  background: #666;
+}
+
+ul {
+  padding-left: 0;
+  list-style: none;
+}
+
+li {
+  padding: 6px 0;
+  border-bottom: 1px solid #333;
+  font-size: 14px;
+}
